@@ -12,4 +12,5 @@ You start a chat your agent gets to work, then you wait for it to finish. While 
 
 ### missing the flow
 
-i miss the flow state you get into when coding. Void of breaks of waiting.
+i miss the flow state you get into when coding. 
+
